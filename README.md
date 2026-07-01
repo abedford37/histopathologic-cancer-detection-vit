@@ -5,8 +5,6 @@ as containing metastatic tumor tissue or not. Built as a course project and kept
 as a portfolio artifact.
 
 **Authors:** Ashley Bedford ([abedford37](https://github.com/abedford37)) and Mayank Gaba.
-[Contribution note: fill in who built which parts, e.g. "Ashley: preprocessing, ViT model,
-evaluation; Mayank: data augmentation, reporting."]
 
 ## Problem
 
